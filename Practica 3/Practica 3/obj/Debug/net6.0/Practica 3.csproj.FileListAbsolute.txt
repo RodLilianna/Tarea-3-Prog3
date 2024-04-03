@@ -1,0 +1,160 @@
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.exe
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.deps.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.runtimeconfig.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.AssemblyReference.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.Practica 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\scopedcss\bundle\Practica 3.styles.css
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CopyComplete
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\refint\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.genruntimeconfig.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3\Practica 3\obj\Debug\net6.0\ref\Practica 3.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.exe
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.deps.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.runtimeconfig.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.pdb
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.AssemblyReference.cache
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfo.cs
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.Practica 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica 3.props
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica 3.props
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica 3.props
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\scopedcss\bundle\Practica 3.styles.css
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CopyComplete
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\refint\Practica 3.dll
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.pdb
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.genruntimeconfig.cache
+C:\Users\Consultor01\Desktop\Programacion Web\Practica 3\Practica 3\obj\Debug\net6.0\ref\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.exe
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.deps.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.runtimeconfig.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.AssemblyReference.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.Practica 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\scopedcss\bundle\Practica 3.styles.css
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CopyComplete
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\refint\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.genruntimeconfig.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\ref\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.exe
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.deps.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.runtimeconfig.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.AssemblyReference.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.Practica 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\scopedcss\bundle\Practica 3.styles.css
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CopyComplete
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\refint\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.genruntimeconfig.cache
+C:\Users\lilianna\OneDrive\Documentos\Programacion 2  (2023 - C3)\Practica 3 New2\Practica 3\Practica 3\obj\Debug\net6.0\ref\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\appsettings.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.exe
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.deps.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.runtimeconfig.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.AssemblyReference.cache
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.AssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.Practica 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica 3.props
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\scopedcss\bundle\Practica 3.styles.css
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.csproj.CopyComplete
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\refint\Practica 3.dll
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.pdb
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\Practica 3.genruntimeconfig.cache
+C:\Users\lilianna\OneDrive\Documentos\Prog 3 (Kelyn Tejada)\Tarea-3\Practica 3\Practica 3\obj\Debug\net6.0\ref\Practica 3.dll
